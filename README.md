@@ -35,4 +35,4 @@ and then
 
 npm run build
 
-After this we should see green in our terminal and have a built Widget.
+The terminal should show success state and a new folder with all the essential file should be present for further development
