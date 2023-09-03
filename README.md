@@ -21,18 +21,14 @@ mkdir myPluggableWidgets
 
     Generate the Widget.
 
-Run this command to create a widget called characterCounter
+Run the following command to create a widget called characterCounter
 
 yo @mendix/widget characterCounter
 
-and answer the questions asked as follows:
-
-no need
-
-cd characterCounter
-
-and then
+chnage the current directory to the characterCounter directory. Run the following 
 
 npm run build
 
-The terminal should show success state and a new folder with all the essential file should be present for further development
+The terminal should show success state and a new folder with all the essential file will be created for further development.
+
+Have fun customizing and linking it to your algorithm.
